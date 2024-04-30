@@ -28,7 +28,7 @@ public class PageActions {
 		 2. WebDriverWait
 		 3. FluentWait
 		 
-		 hii
+		 
 */
 	private  WebDriver driver;
 	WebDriverWait wait;
