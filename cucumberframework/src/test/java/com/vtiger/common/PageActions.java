@@ -21,7 +21,6 @@ import com.vtiger.stepsdefinations.BaseDefinition;
 
 public class PageActions {
 
-	//Heloo priyanka hii
 /*Wait:
 	1. Implicit wait > global wait
 	2. Explicit wait 
