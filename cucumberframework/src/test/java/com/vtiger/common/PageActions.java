@@ -27,6 +27,8 @@ public class PageActions {
 		 1. Thread.sleep > Static wait
 		 2. WebDriverWait
 		 3. FluentWait
+		 
+		 hii
 */
 	private  WebDriver driver;
 	WebDriverWait wait;
